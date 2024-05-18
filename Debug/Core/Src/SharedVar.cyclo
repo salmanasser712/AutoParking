@@ -1,0 +1,9 @@
+../Core/Src/SharedVar.c:11:6:SharedVar_Init	1
+../Core/Src/SharedVar.c:16:6:ultrasonics_arr_Setter	1
+../Core/Src/SharedVar.c:21:5:ultrasonics_arr_Getter	1
+../Core/Src/SharedVar.c:27:6:ultrasonics_Flagarr_Setter	1
+../Core/Src/SharedVar.c:32:4:ultrasonics_Flagarr_Getter	1
+../Core/Src/SharedVar.c:38:6:mode_Setter	1
+../Core/Src/SharedVar.c:43:8:mode_Getter	1
+../Core/Src/SharedVar.c:48:6:Obstacle_mode_Setter	1
+../Core/Src/SharedVar.c:53:9:Obstacle_mode_Getter	1

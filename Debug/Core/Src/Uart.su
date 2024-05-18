@@ -1,0 +1,2 @@
+../Core/Src/Uart.c:10:6:Init_Uart	16	static
+../Core/Src/Uart.c:19:9:Get_Bluetooth_Command	4	static

@@ -1,0 +1,12 @@
+../Core/Src/Park.c:11:13:FirstStep_Parking	2
+../Core/Src/Park.c:23:13:FirstStep_ParkingRight	3
+../Core/Src/Park.c:45:13:FirstStep_ParkingLeft	3
+../Core/Src/Park.c:67:13:SecondStep_ParkingRight	3
+../Core/Src/Park.c:89:13:SecondStep_ParkingLeft	3
+../Core/Src/Park.c:112:13:ThirdStep_ParkingRight	5
+../Core/Src/Park.c:136:13:ThirdStep_ParkingLeft	5
+../Core/Src/Park.c:161:13:FourthStep_ParkingRight	6
+../Core/Src/Park.c:186:13:FourthStep_ParkingLeft	6
+../Core/Src/Park.c:210:13:FifthStep_ParkingRight	4
+../Core/Src/Park.c:241:13:FifthStep_ParkingLeft	4
+../Core/Src/Park.c:270:6:Park_Runnable	17

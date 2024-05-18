@@ -1,0 +1,7 @@
+../Core/Src/Motor.c:7:6:Motor_Init_Timer	1
+../Core/Src/Motor.c:15:6:Motor1_Stop	1
+../Core/Src/Motor.c:23:6:Motor2_Stop	1
+../Core/Src/Motor.c:31:6:Motor_Forward	1
+../Core/Src/Motor.c:39:6:Motor_Backward	1
+../Core/Src/Motor.c:46:6:Motor_Right	1
+../Core/Src/Motor.c:53:6:Motor_Left	1

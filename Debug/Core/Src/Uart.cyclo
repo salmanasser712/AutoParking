@@ -1,0 +1,2 @@
+../Core/Src/Uart.c:10:6:Init_Uart	1
+../Core/Src/Uart.c:19:9:Get_Bluetooth_Command	3
